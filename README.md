@@ -1,5 +1,5 @@
 # simple_projects
-**Mini-projects on data analysys using Pytnon (pandas, numpy, matplotlib, seaborn, plotly.express, os etc.)**
+**Mini-projects on data analysys using Pytnon (pandas, numpy, matplotlib, seaborn, plotly.express, etc.)**
 
 - [Мини-анализ данных о бронировании отелей](https://nbviewer.jupyter.org/github/kandydaria/simple_projects/blob/main/Miniproject_2.ipynb)&nbsp;&nbsp;[pandas]<br>
 Посмотрим, пользователи каких стран совершили наибольшее число успешных бронирований, на сколько ночей в среднем бронируют отели опр. типов, на какой месяц чаще всего оформляли бронь в 2016\2017 годах, в какой месяц бронирования отеляотменялись чаще всего в 2015\2016\2017 годах, и рассчитаем отток клиентов с детьми и без детей.
