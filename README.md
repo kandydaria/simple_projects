@@ -17,3 +17,9 @@
 
 - [Анализ данных о взаимодействии с рекламными объявлениями](https://nbviewer.jupyter.org/github/kandydaria/simple_projects/blob/main/Miniproject_6.ipynb)&nbsp;&nbsp;[pandas, matplotlib, seaborn, numpy, plotly]<br> Посчитаем среднее количество показов и кликов по объявлениям, посмотрим на распределение показов объявлений, найдём проблемное объявление (с наибольшим/наименьшим количеством показов) в день, в который была замечена самая большая по модулю аномалия, найдем среднее количество дней от даты создания
 рекламного клиента и первым запуском рекламного объявления этим клиентом, а также посчитаем конверсию.
+
+- [Очистка грязных данных из Excel](https://nbviewer.jupyter.org/github/kandydaria/simple_projects/blob/main/Miniproject_8_add.ipynb)&nbsp;&nbsp;[pandas]<br>
+
+- [Настройка отправки автоматического отчета в Telegram - Airflow ](https://nbviewer.jupyter.org/github/kandydaria/simple_projects/blob/main/Miniproject_16_for_airflow.ipynb)&nbsp;&nbsp;[pandas, airflow]<br>Имеются данные с информацией о событиях, которые произошли с объявлением 121288 за два дня. Посчитаем метрики (количество показов, количество кликов, CTR, сумма потраченных денег ) в разрезе каждого дня и их изменение в процентах, и настроим автоматический отчет в боте Telegram.
+
+
