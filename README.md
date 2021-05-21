@@ -27,4 +27,4 @@
 - [Мини-анализ данных о рекламных объявлениях](https://nbviewer.jupyter.org/github/kandydaria/simple_projects/blob/main/Miniproject_34.ipynb)&nbsp;&nbsp;[pandas, matplotlib, seaborn, scipy]<br>Построим график распределения числа показов, посчитаем СTR, CPC и CR объявлений,визуализируем CTR и СPC для определенных пользователей.
 
 
-- [Мини-анализ данных об аренде велосипедов в Лондоне за период с 4 января 2015 по 3 января 2017]()&nbsp;&nbsp;[pandas, matplotlib, seaborn]<br>Изучим динамику числа аренд, наличие связи с погодными условиями и выходными, а также объясним несколько аномалий на графике.
+- [Мини-анализ данных об аренде велосипедов в Лондоне за период с 4 января 2015 по 3 января 2017](https://nbviewer.jupyter.org/github/kandydaria/simple_projects/blob/main/Miniproject_35.ipynb)&nbsp;&nbsp;[pandas, matplotlib, seaborn]<br>Изучим динамику числа аренд, наличие связи с погодными условиями и выходными, а также объясним несколько аномалий на графике.
